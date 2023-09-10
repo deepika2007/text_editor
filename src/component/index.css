@@ -1,0 +1,12 @@
+.demo-wrapper {
+  box-shadow: 2px 2px 3px #000;
+}
+.submit_button {
+  color: white;
+  height: 30px;
+  width: 100px;
+  border: 1px solid #317cd6;
+  background: #317cd6;
+  border-radius: 20px;
+  margin-top: 20px;
+}
