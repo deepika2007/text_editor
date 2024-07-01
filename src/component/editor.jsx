@@ -13,7 +13,7 @@ const EditorConvertToHTML = ({ editorState, onEditorStateChange }) => {
         editorClassName="demo-editor"
         onEditorStateChange={onEditorStateChange}
         toolbar={{
-          options: ['inline', 'blockType', 'list', 'textAlign',],
+          options: ['inline', 'list', 'textAlign',],
         }}
       />
     </>
